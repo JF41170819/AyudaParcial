@@ -1,0 +1,22 @@
+D:\VisualStudio\ClassLibrary1\CosaForms\bin\Debug\CosaForms.exe.config
+D:\VisualStudio\ClassLibrary1\CosaForms\bin\Debug\CosaForms.exe
+D:\VisualStudio\ClassLibrary1\CosaForms\bin\Debug\CosaForms.pdb
+D:\VisualStudio\ClassLibrary1\CosaForms\obj\Debug\CosaForms.csprojResolveAssemblyReference.cache
+D:\VisualStudio\ClassLibrary1\CosaForms\obj\Debug\CosaForms.Form1.resources
+D:\VisualStudio\ClassLibrary1\CosaForms\obj\Debug\CosaForms.Properties.Resources.resources
+D:\VisualStudio\ClassLibrary1\CosaForms\obj\Debug\CosaForms.csproj.GenerateResource.Cache
+D:\VisualStudio\ClassLibrary1\CosaForms\obj\Debug\CosaForms.exe
+D:\VisualStudio\ClassLibrary1\CosaForms\obj\Debug\CosaForms.pdb
+D:\VisualStudio\ClassLibrary1\CosaForms\bin\Debug\ClassLibrary1.dll
+D:\VisualStudio\ClassLibrary1\CosaForms\bin\Debug\ClassLibrary1.pdb
+E:\Clases\Clase 4 v2 (Código optimizado)\ClassLibrary1\CosaForms\bin\Debug\CosaForms.exe.config
+E:\Clases\Clase 4 v2 (Código optimizado)\ClassLibrary1\CosaForms\obj\Debug\CosaForms.exe
+E:\Clases\Clase 4 v2 (Código optimizado)\ClassLibrary1\CosaForms\obj\Debug\CosaForms.pdb
+E:\Clases\Clase 4 v2 (Código optimizado)\ClassLibrary1\CosaForms\bin\Debug\CosaForms.exe
+E:\Clases\Clase 4 v2 (Código optimizado)\ClassLibrary1\CosaForms\bin\Debug\CosaForms.pdb
+E:\Clases\Clase 4 v2 (Código optimizado)\ClassLibrary1\CosaForms\bin\Debug\ClassLibrary1.dll
+E:\Clases\Clase 4 v2 (Código optimizado)\ClassLibrary1\CosaForms\bin\Debug\ClassLibrary1.pdb
+E:\Clases\Clase 4 v2 (Código optimizado)\ClassLibrary1\CosaForms\obj\Debug\CosaForms.csprojResolveAssemblyReference.cache
+E:\Clases\Clase 4 v2 (Código optimizado)\ClassLibrary1\CosaForms\obj\Debug\CosaForms.Form1.resources
+E:\Clases\Clase 4 v2 (Código optimizado)\ClassLibrary1\CosaForms\obj\Debug\CosaForms.Properties.Resources.resources
+E:\Clases\Clase 4 v2 (Código optimizado)\ClassLibrary1\CosaForms\obj\Debug\CosaForms.csproj.GenerateResource.Cache
