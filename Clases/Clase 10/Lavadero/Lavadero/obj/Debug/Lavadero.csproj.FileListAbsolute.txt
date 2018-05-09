@@ -1,0 +1,5 @@
+D:\VisualStudio\Lavadero\Lavadero\obj\Debug\Lavadero.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Lavadero\Lavadero\bin\Debug\Lavadero.dll
+D:\VisualStudio\Lavadero\Lavadero\bin\Debug\Lavadero.pdb
+D:\VisualStudio\Lavadero\Lavadero\obj\Debug\Lavadero.dll
+D:\VisualStudio\Lavadero\Lavadero\obj\Debug\Lavadero.pdb
