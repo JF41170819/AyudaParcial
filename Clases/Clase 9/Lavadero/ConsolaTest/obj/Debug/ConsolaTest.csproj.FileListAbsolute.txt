@@ -1,0 +1,8 @@
+E:\Clases\Clase 9\Lavadero\ConsolaTest\bin\Debug\ConsolaTest.exe.config
+E:\Clases\Clase 9\Lavadero\ConsolaTest\bin\Debug\ConsolaTest.exe
+E:\Clases\Clase 9\Lavadero\ConsolaTest\bin\Debug\ConsolaTest.pdb
+E:\Clases\Clase 9\Lavadero\ConsolaTest\bin\Debug\Lavadero.dll
+E:\Clases\Clase 9\Lavadero\ConsolaTest\bin\Debug\Lavadero.pdb
+E:\Clases\Clase 9\Lavadero\ConsolaTest\obj\Debug\ConsolaTest.csprojResolveAssemblyReference.cache
+E:\Clases\Clase 9\Lavadero\ConsolaTest\obj\Debug\ConsolaTest.exe
+E:\Clases\Clase 9\Lavadero\ConsolaTest\obj\Debug\ConsolaTest.pdb
