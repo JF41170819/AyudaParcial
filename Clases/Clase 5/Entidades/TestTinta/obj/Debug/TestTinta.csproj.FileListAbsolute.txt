@@ -1,0 +1,11 @@
+D:\VisualStudio\Entidades\TestTinta\bin\Debug\TestTinta.exe.config
+D:\VisualStudio\Entidades\TestTinta\obj\Debug\TestTinta.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Entidades\TestTinta\bin\Debug\TestTinta.exe
+D:\VisualStudio\Entidades\TestTinta\bin\Debug\TestTinta.pdb
+D:\VisualStudio\Entidades\TestTinta\bin\Debug\Entidades.dll
+D:\VisualStudio\Entidades\TestTinta\bin\Debug\Entidades.pdb
+D:\VisualStudio\Entidades\TestTinta\obj\Debug\TestTinta.exe
+D:\VisualStudio\Entidades\TestTinta\obj\Debug\TestTinta.pdb
+E:\Clases\Clase 5\Entidades\TestTinta\bin\Debug\TestTinta.exe.config
+E:\Clases\Clase 5\Entidades\TestTinta\obj\Debug\TestTinta.exe
+E:\Clases\Clase 5\Entidades\TestTinta\obj\Debug\TestTinta.pdb
