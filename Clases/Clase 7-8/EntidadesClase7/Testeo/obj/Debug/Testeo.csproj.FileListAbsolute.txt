@@ -1,0 +1,16 @@
+D:\VisualStudio\EntidadesClase7\Testeo\bin\Debug\Testeo.exe.config
+D:\VisualStudio\EntidadesClase7\Testeo\bin\Debug\Testeo.exe
+D:\VisualStudio\EntidadesClase7\Testeo\bin\Debug\Testeo.pdb
+D:\VisualStudio\EntidadesClase7\Testeo\bin\Debug\EntidadesClase7.dll
+D:\VisualStudio\EntidadesClase7\Testeo\bin\Debug\EntidadesClase7.pdb
+D:\VisualStudio\EntidadesClase7\Testeo\obj\Debug\Testeo.csprojResolveAssemblyReference.cache
+D:\VisualStudio\EntidadesClase7\Testeo\obj\Debug\Testeo.exe
+D:\VisualStudio\EntidadesClase7\Testeo\obj\Debug\Testeo.pdb
+E:\Clases\Clase 7\EntidadesClase7\Testeo\bin\Debug\Testeo.exe.config
+E:\Clases\Clase 7\EntidadesClase7\Testeo\bin\Debug\Testeo.exe
+E:\Clases\Clase 7\EntidadesClase7\Testeo\bin\Debug\Testeo.pdb
+E:\Clases\Clase 7\EntidadesClase7\Testeo\bin\Debug\EntidadesClase7.dll
+E:\Clases\Clase 7\EntidadesClase7\Testeo\bin\Debug\EntidadesClase7.pdb
+E:\Clases\Clase 7\EntidadesClase7\Testeo\obj\Debug\Testeo.csprojResolveAssemblyReference.cache
+E:\Clases\Clase 7\EntidadesClase7\Testeo\obj\Debug\Testeo.exe
+E:\Clases\Clase 7\EntidadesClase7\Testeo\obj\Debug\Testeo.pdb

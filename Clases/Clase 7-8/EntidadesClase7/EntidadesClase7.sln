@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntidadesClase7", "EntidadesClase7\EntidadesClase7.csproj", "{804A26F0-4418-4212-B5D6-F656F1789C84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testeo", "Testeo\Testeo.csproj", "{939DC409-8A56-4CC0-A513-00B5129F3F6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsForm", "WindowsForm\WindowsForm.csproj", "{819D98A0-5A1F-4426-B7B0-BFA0444555F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{804A26F0-4418-4212-B5D6-F656F1789C84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{804A26F0-4418-4212-B5D6-F656F1789C84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{804A26F0-4418-4212-B5D6-F656F1789C84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{804A26F0-4418-4212-B5D6-F656F1789C84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{939DC409-8A56-4CC0-A513-00B5129F3F6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{939DC409-8A56-4CC0-A513-00B5129F3F6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{939DC409-8A56-4CC0-A513-00B5129F3F6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{939DC409-8A56-4CC0-A513-00B5129F3F6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{819D98A0-5A1F-4426-B7B0-BFA0444555F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{819D98A0-5A1F-4426-B7B0-BFA0444555F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{819D98A0-5A1F-4426-B7B0-BFA0444555F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{819D98A0-5A1F-4426-B7B0-BFA0444555F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

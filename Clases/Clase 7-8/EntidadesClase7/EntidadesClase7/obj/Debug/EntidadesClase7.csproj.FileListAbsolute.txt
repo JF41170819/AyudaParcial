@@ -1,0 +1,10 @@
+D:\VisualStudio\EntidadesClase7\EntidadesClase7\obj\Debug\EntidadesClase7.csprojResolveAssemblyReference.cache
+D:\VisualStudio\EntidadesClase7\EntidadesClase7\bin\Debug\EntidadesClase7.dll
+D:\VisualStudio\EntidadesClase7\EntidadesClase7\bin\Debug\EntidadesClase7.pdb
+D:\VisualStudio\EntidadesClase7\EntidadesClase7\obj\Debug\EntidadesClase7.dll
+D:\VisualStudio\EntidadesClase7\EntidadesClase7\obj\Debug\EntidadesClase7.pdb
+E:\Clases\Clase 7\EntidadesClase7\EntidadesClase7\bin\Debug\EntidadesClase7.dll
+E:\Clases\Clase 7\EntidadesClase7\EntidadesClase7\bin\Debug\EntidadesClase7.pdb
+E:\Clases\Clase 7\EntidadesClase7\EntidadesClase7\obj\Debug\EntidadesClase7.csprojResolveAssemblyReference.cache
+E:\Clases\Clase 7\EntidadesClase7\EntidadesClase7\obj\Debug\EntidadesClase7.dll
+E:\Clases\Clase 7\EntidadesClase7\EntidadesClase7\obj\Debug\EntidadesClase7.pdb
