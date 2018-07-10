@@ -1,0 +1,9 @@
+C:\Users\Admin\Desktop\ParcialBienHecho\Entidades\bin\Debug\Entidades.dll
+C:\Users\Admin\Desktop\ParcialBienHecho\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Admin\Desktop\ParcialBienHecho\Entidades\obj\Debug\Entidades.dll
+C:\Users\Admin\Desktop\ParcialBienHecho\Entidades\obj\Debug\Entidades.pdb
+E:\2018PP\ParcialBienHecho\Entidades\bin\Debug\Entidades.dll
+E:\2018PP\ParcialBienHecho\Entidades\bin\Debug\Entidades.pdb
+E:\2018PP\ParcialBienHecho\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+E:\2018PP\ParcialBienHecho\Entidades\obj\Debug\Entidades.dll
+E:\2018PP\ParcialBienHecho\Entidades\obj\Debug\Entidades.pdb
